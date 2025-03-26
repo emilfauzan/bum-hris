@@ -18,3 +18,10 @@ Route::get('/signup', function () {
         'titlepage' => 'NT CORP HRIS'
     ]);
 });
+
+Route::get('/home', function () {
+    return view('home', [
+        'title' => 'Home Page bre',
+        'titlepage' => 'LAZ SWARA'
+    ]);
+});

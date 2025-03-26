@@ -91,6 +91,10 @@
                                 in</button>
                         </div>
                     </form>
+                    <a href="/home"
+                        class="mt-4 flex w-full justify-center rounded-md bg-yellow-500 px-3 py-1.5 text-sm/6 font-semibold text-white shadow-xs hover:bg-yellow-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-500 hover:cursor-pointer">
+                        Home
+                    </a>
                     <div class="text-xs mt-4 text-right">
                         <a href="/signup"
                             class="font-semibold text-yellow-500 hover:text-yellow-500 hover:underline">Don't have an
